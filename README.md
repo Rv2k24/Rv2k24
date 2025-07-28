@@ -1,6 +1,6 @@
 Ola! 😉 Me chamo Ryan Vieira, Estou cursando Analise e Desenvolvimento de Sistemas na Faculdade UniRitter Fapa.
 Estou sempre buscando aprimorar meus conhecimentos na área da TI, Analise de dados, desenvolvimento Web, Entre outros.
-Comprometido a prestar o devido serviço a empresa que me for fornecido. 
+ 
 
 ##
 
